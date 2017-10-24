@@ -6,7 +6,7 @@ body {
 }
 
 h1 {
-  font-size:40px;
+  font-size:30pt;
   font-weight:300;
   line-height:40px;
   margin:5vh 0 0 0;
@@ -17,7 +17,7 @@ b {
 }
 
 p {
-  font-size:25px;
+  font-size:14pt;
   line-height:40px;
   display:inline-block;
   margin-top:auto;
