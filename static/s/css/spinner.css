@@ -9,6 +9,7 @@ h1 {
   font-size:40px;
   font-weight:300;
   line-height:40px;
+  margin:5vh 0 0 0;
 }
 
 b {
@@ -19,12 +20,15 @@ p {
   font-size:25px;
   line-height:40px;
   display:inline-block;
+  margin-top:auto;
 }
 
 .center {
   color:#7f8c8d;
+  width: 50%;
+  text-align:center;
   height:40px;
-  margin-top: 1vh;
-  position: absolute;
+  margin: auto;
   z-index:999;
 }
+
