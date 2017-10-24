@@ -34,4 +34,7 @@ p {
 
 #diffeq {
 	background-image: url("../img/diffeq.png");
+	background-position: center;
+	background-repeat: no-repeat;
+	height:100%;
 }
