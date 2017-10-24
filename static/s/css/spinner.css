@@ -33,5 +33,5 @@ p {
 }
 
 #diffeq {
-	background-img: static/s/img/diffeq.png
+	background: "static/s/img/diffeq.png";
 }
