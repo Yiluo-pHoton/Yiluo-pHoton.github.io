@@ -33,8 +33,12 @@ p {
 }
 
 #diffeq {
-	background-image: url("../img/diffeq.png");
-	background-position: center;
-	background-repeat: no-repeat;
-	height:100%;
+	background-image: url(../img/diffeq.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 10vh;
+    width: 50vw;
+    background-size: 40vh;
+    padding-bottom: 5vh;
+    margin-top: -3vh;
 }
